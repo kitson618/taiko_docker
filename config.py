@@ -1,5 +1,5 @@
 # The full URL base asset URL, with trailing slash.
-ASSETS_BASEURL = 'https://https://taiko.uk/taiko/assets-201202-p1/'
+ASSETS_BASEURL = 'https://taiko.uk/taiko/assets-201202-p1/'
 
 # The full URL base song URL, with trailing slash.
 SONGS_BASEURL = '/songs/'
